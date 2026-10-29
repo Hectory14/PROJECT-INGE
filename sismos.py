@@ -28,11 +28,11 @@ MAGNITUD_MINIMA = 4.0
 # IDs de los roles de Discord (clic derecho sobre el rol -> Copiar ID, con el
 # Modo desarrollador activado). Deja "" en los que no existan todavía.
 ROLES = {
-    5: "",   # M5
-    6: "",   # M6
-    7: "",   # M7
-    8: "",   # M8
-    9: "",   # M9
+    5: "1565511730623156254",   # M5
+    6: "1565511788198498335",   # M6
+    7: "1565511845211807875",   # M7
+    8: "1565511898995236894",   # M8
+    9: "1565511938681741393",   # M9
 }
 
 # Cuántas horas hacia atrás se consulta en cada ejecución. Debe ser bastante
